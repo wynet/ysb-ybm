@@ -1,0 +1,29 @@
+{
+  "name": "getB2B",
+  "version": "1.0.0",
+  "dependencies": {
+  },
+  "ysbcookies": {
+      "rcfp": "b5d0dcd92a5d9b0d6510f299a4ecd7b92066",
+      "sensorsdata2015jssdkcross": "%7B%22distinct_id%22%3A%22565593%22%2C%22first_id%22%3A%2218a88ae03a7ab-09a43488d073be8-26031f51-2073600-18a88ae03a8111b%22%2C%22props%22%3A%7B%22%24latest_traffic_source_type%22%3A%22%E7%9B%B4%E6%8E%A5%E6%B5%81%E9%87%8F%22%2C%22%24latest_search_keyword%22%3A%22%E6%9C%AA%E5%8F%96%E5%88%B0%E5%80%BC_%E7%9B%B4%E6%8E%A5%E6%89%93%E5%BC%80%22%2C%22%24latest_referrer%22%3A%22%22%7D%2C%22identities%22%3A%22eyIkaWRlbnRpdHlfY29va2llX2lkIjoiMThhODhhZTAzYTdhYi0wOWE0MzQ4OGQwNzNiZTgtMjYwMzFmNTEtMjA3MzYwMC0xOGE4OGFlMDNhODExMWIiLCIkaWRlbnRpdHlfbG9naW5faWQiOiI1NjU1OTMifQ%3D%3D%22%2C%22history_login_id%22%3A%7B%22name%22%3A%22%24identity_login_id%22%2C%22value%22%3A%22565593%22%7D%2C%22%24device_id%22%3A%2218a88ae03a7ab-09a43488d073be8-26031f51-2073600-18a88ae03a8111b%22%7D",
+      "__snaker__id": "Al3NKRMji30N5fIy",
+      "YD00545705772953%3AWM_TID": "h9sg15fdXldERAVABAOEzJ0ufrloKdEI",
+      "gdxidpyhxdE": "QyvLPZWLvlGoAttMQB6QOKw3HpB1Ok0WJ%5Clxc0DEckIkkmMZkvcVoCUTwpXGB%2BrdkzWumb6ALqsAflwkjBr5ca8Yc71pl062x3IdvTIjKGbkVpjiHcxcueOga2fHmv%5C%2BrY%2Fze6p7XoVzIC6ufquaaVnP3%2BP5YAjO%5Cr8VgzqbP9YT1Z7Z%3A1696930579782",
+      "YD00545705772953%3AWM_NI": "zcCACEklNABphmlA5E6lcU%2FICDHeWSt6E7Fw48BswOe%2FugBgcy%2BrzbKXMcrcCLrQ9UJJ1CTEi88XgW%2F2hh06r6rhp9o6rmdVGtoqkmVF0BxvR0AboQWcLKmgrh2Mz9sVODU%3D",
+      "YD00545705772953%3AWM_NIKE": "9ca17ae2e6ffcda170e2e6ee8ed345bbb1ae98f57eaf9a8eb3d54b869b9a87c539bcbe8e96c25b83efa9d4b42af0fea7c3b92ababd8da2c24fa9b482a2c17cacb3a4a2b84ff6b4adb6ae43819c8886d659b8ea8bd8c57df8e88e94f645a7f1bb88c16da1a7e593f96a89888384f1698194beb2bc5f8a96ffa4d74fabe8f8b9e65dedeea889b33eb2eabe89f333adeabe8ee75e85aca192ea67969a00a3fb7e92f08f83ee5b95bd84acf06db2b8feaef933b18a81a5d837e2a3",
+      "Token": "70db5acabda44e0f95bad3883d9aedd8"
+  },
+  "ybmcookies": {
+      "web_did": "%7B%22did%22%3A%20%2209cc6c30-43b6-4f0d-b09b-1757da8be33b%22%7D",
+      "Hm_lvt_9f4bfe0c69e174e92f282183ee72bed2": "1695691517,1696821089,1696904656,1697160767",
+      "xyy_principal": "114158&NDMyMDhlMGViOGEwMjkxZTcyMzBhYzZhNjg3NzkxNDA3YWVkZmQ1Ng&114158",
+      "xyy_last_login_time": "1697160768749",
+      "xyy": "MTE0MTU4JjE3Mzc4MTQ1MTYy",
+      "isDeviceUpload": "1",
+      "JSESSIONID": "EF17E8B7477AB61BF5AC7C95D1661400",
+      "acw_tc": "2f61f27416971639453451409e41d3962e0c2edfe99dd0657e5b99249b1d2a",
+      "web_8b5e1b0f250a436e8c6af9871354bfba": "%7B%22sid%22%3A%200%2C%22updated%22%3A%200%2C%22info%22%3A%200%2C%22superProperty%22%3A%20%22%7B%5C%22%E5%BA%94%E7%94%A8%E5%90%8D%E7%A7%B0%5C%22%3A%20%5C%22%E5%B0%8F%E8%8D%AF%E8%8D%AFio%5C%22%7D%22%7D",
+      "web_info": "%7B%22sid%22%3A%201697163952852%2C%22updated%22%3A%201697163952852%2C%22info%22%3A%200%2C%22superProperty%22%3A%20%22%7B%5C%22%E5%BA%94%E7%94%A8%E5%90%8D%E7%A7%B0%5C%22%3A%20%5C%22%E5%B0%8F%E8%8D%AF%E8%8D%AFio%5C%22%7D%22%2C%22referrerDomain%22%3A%20%22www.ybm100.com%22%2C%22cuid%22%3A%20%220%22%7D",
+      "Hm_lpvt_9f4bfe0c69e174e92f282183ee72bed2": "1697163953"
+  }
+}
